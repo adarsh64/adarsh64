@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Embedded systems
+- 🌱 I’m currently learning on Artificial Intelligence
 - 📑 Check out my resume here -  [Adarsh Rai Resume.pdf](https://github.com/adarsh64/adarsh64/files/14307501/Adarsh.Rai.Resume.pdf) 
 - 📫 How to reach me: raiadarsh829@gmail.com
 -->
